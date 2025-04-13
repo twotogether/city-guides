@@ -4,3 +4,4 @@
 - Includes public transport options.
 - Includes restaurant recommendations. Restaurants with no vegetarian options are marked.
 - Ticketed attractions are marked with 🎟.
+- Restaurants and bars are highlighted, for example: `Dishoom`.
